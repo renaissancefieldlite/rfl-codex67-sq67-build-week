@@ -30,8 +30,8 @@ PDF metadata:
 Pages: 11
 Page size: Letter
 Encrypted: no
-File size: 23K
-SHA256: ec794b73d07f2cd5ad035bfad7ac6fd544ef5447d2d3d94b65eb92238757aa3e
+File size: 24,191 bytes
+SHA256: 596014b06a64555f3b6aeb85434230bb0270a4ed7e3d1d4efcd6e5b5657bd2e6
 ```
 
 Content checks:
@@ -42,6 +42,9 @@ Executive Summary: present
 Five Questions For OpenAI: present
 0 / 1300 false recoveries: present
 Application No. 63/812,891: present
+Public video URL: present
+Zenodo DOI record: present
+10B token activity snapshot: present
 ```
 
 Visual check:

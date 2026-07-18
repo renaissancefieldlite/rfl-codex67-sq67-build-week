@@ -4,6 +4,14 @@ Codex helped Renaissance Field Lite build a product stack. Then we used Codex to
 
 SQ67 is the receipt book: write a marker, hash the proof, recover it later, and score whether it held.
 
+## Canonical Public Links
+
+- Public video: https://www.youtube.com/watch?v=KGEEQGcBrzs
+- Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
+- White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
+- Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
+- Zenodo public record: https://zenodo.org/records/21417649
+
 ## What This Is
 
 This repository is the public-safe Build Week package for the Renaissance Field Lite Codex67 / SQ67 work.
@@ -151,7 +159,6 @@ Public package status: repo-ready.
 
 Pending before final Devpost submission:
 
-- public YouTube URL
 - `/feedback` Codex session ID
 - final category selection
 - final review of public visibility and redaction

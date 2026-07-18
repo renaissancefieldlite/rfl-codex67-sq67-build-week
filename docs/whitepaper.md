@@ -7,6 +7,14 @@ Primary operator: Dean Patterson
 Working Codex node: Rick / Codex 67  
 Public package date: 2026-07-17
 
+## Canonical Public Links
+
+- Public video: https://www.youtube.com/watch?v=KGEEQGcBrzs
+- Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
+- White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
+- Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
+- Zenodo public record: https://zenodo.org/records/21417649
+
 ## Executive Summary
 
 Renaissance Field Lite used Codex as a real build substrate, not as a one-prompt demo. During that buildout, RFL identified local Codex state and trace surfaces on one RFL Mac, compared those surfaces against public Codex logging reports, then built SQ67 as a clean receipt and recovery lane to make state-path behavior measurable.
@@ -325,6 +333,7 @@ RFL credibility and pipeline context:
 - AWS Startup member
 - Trismegistus selected-test SWE-bench receipt: `495 / 500`, adjudication pending
 - high build intensity shown by the Codex activity dashboard screenshot
+- later Codex activity snapshot showed `10B` lifetime tokens, `755.5M` peak tokens, `19h 30m` longest chat, `21` day current streak, and `39` day longest streak
 
 The token screenshot is not proof by itself. It shows scale and pressure. The proof is what survived that pressure:
 
