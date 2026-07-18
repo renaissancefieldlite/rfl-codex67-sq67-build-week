@@ -1,0 +1,14 @@
+gate,lane,rows,exact_recoveries,evidence_hits,false_recoveries,control_rejections,avg_latency_seconds,total_tokens,notes
+C40B_C41_C43,SQ67 clean receipt lane,150,150,150,0,0,,,150/150 exact recovery and evidence rows preserved
+C40B_C41_C43,normal visible lane,150,149,114,0,0,,,149/150 exact answers but only 114/150 evidence rows preserved
+earlier_clean_route,SQ67 clean route,450,450,450,0,0,,,450/450 recovery
+controls,false recovery controls,1300,0,0,0,1300,,,0/1300 false recoveries
+C31E,blinded carrier gate,25,25,20,0,5,,,25/25 exact outputs; 20/20 carrier recoveries; 5/5 no-recovery controls
+H07,operator-external canary,3,3,3,0,0,,,3/3 hashes matched; zero plaintext hits
+H08D,Tornado second-machine sealed batch,3,3,3,0,0,,,3/3 hashes matched; zero plaintext hits; zero runner failures
+H09,Tornado N10 sealed batch,10,10,10,0,0,,,10/10 hashes matched; zero plaintext hits
+C57,gpt-5.5 lane A,50,50,50,0,0,66.437,3529758,World Bank N50
+C57,gpt-5.6-sol lane A,50,43,44,0,0,61.970,2894968,World Bank N50
+C58,gpt-5.5 lane C,50,50,50,0,0,74.935,8421682,USGS N50 second source
+C58,gpt-5.6-sol lane C,50,38,50,0,0,171.111,19067794,USGS N50 second source
+

@@ -1,0 +1,4 @@
+{"nonce":"SQ67_PUBLIC_DEMO_A001","lane":"sq67_clean","task":"extract_facts","claim":"receipt writer created a durable marker","evidence":["nonce preserved","payload hash computed","receipt hash chained"],"boundary":"synthetic public demo row only","next_gate":"recover by nonce"}
+{"nonce":"SQ67_PUBLIC_DEMO_A002","lane":"visible_baseline","task":"extract_facts","claim":"visible answer can be correct while preserving less evidence","evidence":["answer present","missing structured receipt"],"boundary":"synthetic public demo row only","next_gate":"compare against SQ67 receipt"}
+{"nonce":"SQ67_PUBLIC_DEMO_A003","lane":"sealed_control","task":"hash_reveal","claim":"hash can verify later reveal without exposing plaintext during setup","evidence":["public id","sha256 match after reveal"],"boundary":"synthetic public demo row only","next_gate":"score false-recovery rate"}
+
