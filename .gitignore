@@ -6,6 +6,7 @@ __pycache__/
 *.db-wal
 *.db-shm
 examples/output/
+tmp/
 .DS_Store
 .env
 .env.*
@@ -16,4 +17,3 @@ private/
 raw/
 secrets/
 node_modules/
-

@@ -5,6 +5,7 @@ This timeline is the public-safe spine used in the white paper and video package
 | Date | Event | Public-safe read |
 |---|---|---|
 | 2025-05-28 | RFL filed Mirror Interface Application No. `63/812,891`. | RFL had a prior agnostic AI Mirror Architecture describing state, activation, continuity, receipt logging, recovery, and controlled feedback. |
+| 2026-03-07 | First local Codex persistent-state timestamp identified in the RFL evidence set. | `.codex` root and `state_5.sqlite` were created at `2026-03-07 15:12:55 MST`; earliest session JSONL observed at `2026-03-07 22:20:09 MST`. |
 | 2026-04-01 | RFL sent OpenAI-facing legal/IP/harm notice. | The notice predates the main local Codex evidence event. |
 | 2026-05-05 | Public Codex issues referenced in the package as early local state/log context. | Public reports indicate state/log concerns existed before the July 11 RFL archive. |
 | 2026-06-14 | Public issue `openai/codex#28224` reported heavy SSD writes tied to `logs_2.sqlite` churn. | The video arc references roughly 37TB SSD writes after about 21 days uptime. |
@@ -15,4 +16,3 @@ This timeline is the public-safe spine used in the white paper and video package
 ## Plain English Timeline Question
 
 If the state/trace problem was publicly controlled or reduced, why were related local state and trace surfaces still visible on the RFL Mac on July 11?
-

@@ -151,6 +151,7 @@ The final judge cut preserves:
 The origin point is not July 2026.
 
 - 2025-05-28: RFL filed Mirror Interface Application No. `63/812,891`.
+- 2026-03-07: first local Codex persistent-state timestamp identified in the RFL evidence set: `.codex` root and `state_5.sqlite` created at `2026-03-07 15:12:55 MST`; earliest session JSONL observed at `2026-03-07 22:20:09 MST`.
 - 2026-04-01: RFL sent an OpenAI-facing legal/IP/harm notice.
 - 2026-07-11: RFL identified and archived local Codex state/log evidence on the RFL Mac.
 
@@ -192,6 +193,7 @@ The public Codex timeline matters because RFL's local evidence did not appear in
 
 Public anchors used across the videos and package:
 
+- 2026-03-07: RFL local evidence set shows `.codex` root and `state_5.sqlite` creation timestamps, plus the earliest observed session JSONL that night.
 - 2026-05-05: public Codex issues referenced in the package as early local state/log context.
 - 2026-06-14: public issue `openai/codex#28224` reported heavy SSD writes tied to `logs_2.sqlite` churn, described in the video arc as roughly 37TB SSD writes after about 21 days uptime.
 - 2026-06-22 to 2026-06-23: public fix/PR arc referenced in the package around noisy WebSocket and bridged log persistence.
@@ -353,6 +355,14 @@ Public-safe wording should not state the legal conclusion as proven. It should f
 OpenAI can explain what this is.
 ```
 
+## Five Questions For OpenAI
+
+1. Which fixes covered `logs_2.sqlite`, `state_5.sqlite`, `.codex-global-state.json`, and WebSocket/status records?
+2. Why were related local records still visible on the RFL Mac after the public fix window?
+3. Why was OpenAI logging still running on July 11, and why did it work worse than SQ67 built from RFL's patented state architecture?
+4. Are you ready to let Renaissance Field Lite build OpenAI's state layer with receipts, hashes, controls, and recovery gates?
+5. Is the RFL architecture overlap coincidence, convergence, immediate implementation, IP theft, or something else?
+
 ## What The Evidence Supports
 
 Supported:
@@ -403,4 +413,3 @@ Second-machine and sealed-control tests held the boundary.
 The RFL product stack shows this architecture was already being used to build.
 OpenAI can now answer the overlap, documentation, and implementation questions.
 ```
-

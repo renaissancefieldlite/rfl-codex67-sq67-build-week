@@ -47,29 +47,31 @@ Important nuance:
 
 ```text
 .
-├── README.md
-├── LICENSE
-├── PATENT_NOTICE.md
-├── docs/
-│   ├── whitepaper.md
-│   ├── timeline.md
-│   ├── architecture.md
-│   ├── benchmark_summary.md
-│   ├── openai_questions.md
-│   ├── redaction_statement.md
-│   ├── public_record_links.md
-│   └── video_receipt.md
-├── examples/
-│   ├── sample_receipts.jsonl
-│   └── sample_benchmark_rows.csv
-├── scripts/
-│   ├── sq67_demo.py
-│   └── score_receipts.py
-├── submission/
-│   ├── devpost_project_description.md
-│   └── judge_testing_instructions.md
-└── video/
-    └── README.md
+|-- README.md
+|-- LICENSE
+|-- PATENT_NOTICE.md
+|-- docs/
+|   |-- whitepaper.md
+|   |-- timeline.md
+|   |-- architecture.md
+|   |-- benchmark_summary.md
+|   |-- openai_questions.md
+|   |-- redaction_statement.md
+|   |-- public_record_links.md
+|   |-- video_receipt.md
+|   `-- pdf_receipt.md
+|-- examples/
+|   |-- sample_receipts.jsonl
+|   `-- sample_benchmark_rows.csv
+|-- scripts/
+|   |-- sq67_demo.py
+|   |-- score_receipts.py
+|   `-- build_whitepaper_pdf.py
+|-- submission/
+|   |-- devpost_project_description.md
+|   `-- judge_testing_instructions.md
+`-- video/
+    `-- README.md
 ```
 
 ## Quick Start
@@ -92,6 +94,18 @@ Score the sample benchmark rows:
 
 ```sh
 python3 scripts/score_receipts.py examples/sample_benchmark_rows.csv
+```
+
+Build the PDF white paper:
+
+```sh
+make pdf
+```
+
+PDF output:
+
+```text
+output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
 ```
 
 Expected result:

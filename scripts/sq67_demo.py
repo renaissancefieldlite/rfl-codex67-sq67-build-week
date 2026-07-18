@@ -301,6 +301,9 @@ def main() -> int:
             return 0
         if args.command == "demo":
             for row in DEMO_ROWS:
+                conn.execute("DELETE FROM receipts WHERE nonce = ?", (row["nonce"],))
+            conn.commit()
+            for row in DEMO_ROWS:
                 write_receipt(conn, row)
             errors = verify(conn)
             if errors:
