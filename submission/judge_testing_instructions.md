@@ -29,6 +29,16 @@ cd rfl-codex67-sq67-build-week
 make test
 ```
 
+## Patent Claim Audit Packet
+
+The repository includes a public-safe 30-claim audit packet:
+
+```text
+docs/provisional_claim_audit/
+```
+
+It gives judges the reviewer-safe overlap map: provisional priority anchor, source hashes, claim-theme matrix, FIG. 1-FIG. 15 mapping, and explicit boundaries. It does not publish raw private patent folders, inventor address details, local database bodies, private prompts, or protected implementation mechanics.
+
 ## Run The Demo
 
 From the repository root:

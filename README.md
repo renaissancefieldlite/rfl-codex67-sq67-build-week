@@ -24,6 +24,7 @@ It contains:
 - a local SQLite receipt demo
 - scoring scripts
 - redacted sample benchmark rows
+- a public-safe 30-claim patent audit packet
 - Devpost and reviewer instructions
 - video receipt metadata
 
@@ -69,7 +70,8 @@ Important nuance:
 |   |-- redaction_statement.md
 |   |-- public_record_links.md
 |   |-- video_receipt.md
-|   `-- pdf_receipt.md
+|   |-- pdf_receipt.md
+|   `-- provisional_claim_audit/
 |-- examples/
 |   |-- sample_receipts.jsonl
 |   `-- sample_benchmark_rows.csv
@@ -146,6 +148,16 @@ Start with these files:
 The public code is intentionally small and inspectable. It shows the receipt pattern, scoring pattern, and review surface without exposing raw private Codex state logs, private prompts, account identifiers, tokens, machine-bound backend identifiers, or protected architecture implementation details.
 
 Protected implementation code, raw state evidence, private prompts, unredacted logs, and licensing-grade integration material are available only through NDA, licensing review, or another protected review process with Renaissance Field Lite.
+
+## Patent Claim Audit Packet
+
+The public-safe 30-claim audit packet is here:
+
+```text
+docs/provisional_claim_audit/
+```
+
+It maps RFL's provisional priority anchor and later 30-claim non-provisional support spine to the observed Codex/SQ67 state-path evidence in a reviewer-safe way. It includes source hashes, claim-theme mappings, FIG. 1-FIG. 15 overlap mappings, and boundaries for what remains protected.
 
 ## Key Results Carried Into This Public Package
 

@@ -17,6 +17,7 @@ https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 | `scripts/build_whitepaper_pdf.py` | Builds the public-safe white paper PDF from `docs/whitepaper.md`. |
 | `Makefile` | Provides the shortest judge path: `make test`. |
 | `docs/public_make_test_receipt_2026-07-18.md` | Stores the exact transcript from the public verifier run. |
+| `docs/provisional_claim_audit/` | Public-safe 30-claim patent audit packet: source hashes, claim-theme matrix, FIG. 1-FIG. 15 overlap map, and protected-material boundaries. |
 
 ## One-Command Review
 

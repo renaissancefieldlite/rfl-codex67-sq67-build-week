@@ -12,6 +12,7 @@ Public package date: 2026-07-17
 - Public video: https://www.youtube.com/watch?v=s1YJU8eL2es
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
+- Public-safe 30-claim patent audit packet: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/tree/main/docs/provisional_claim_audit
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
 - Zenodo public record: https://zenodo.org/records/21417649
 
@@ -20,6 +21,8 @@ Public package date: 2026-07-17
 Renaissance Field Lite used Codex as a real build substrate, not as a one-prompt demo. During that buildout, RFL identified local Codex state and trace surfaces on one RFL Mac, compared those surfaces against public Codex logging reports, then built SQ67 as a clean receipt and recovery lane to make state-path behavior measurable.
 
 The public-safe finding is narrow and strong: the default Codex state/log lane was messy and weak at preserving evidence, while SQ67 preserved state-path receipts, hashes, and recovery evidence better under controlled tests.
+
+The architecture-overlap question is now supported by a separate public-safe 30-claim audit packet. That packet indexes the provisional priority anchor, later non-provisional support spine, source hashes, claim-theme matrix, and FIG. 1-FIG. 15 overlap map without exposing private patent folders or protected implementation mechanics.
 
 This paper preserves three arcs:
 
@@ -386,6 +389,7 @@ Supported:
 - Tornado provided second-machine replication for the sealed-control lane.
 - C57/C58 made GPT-5.5 versus GPT-5.6 comparison measurable under the same harness.
 - RFL's product stack predates SQ67; SQ67 is the receipt lane, not the origin of the product stack.
+- The public-safe 30-claim audit packet makes the architecture-overlap question reviewable without publishing protected claim mechanics or raw private sources.
 
 Inference:
 
