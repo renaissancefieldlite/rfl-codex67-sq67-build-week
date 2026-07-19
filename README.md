@@ -7,6 +7,7 @@ SQ67 is the receipt book: write a marker, hash the proof, recover it later, and 
 ## Canonical Public Links
 
 - Public video: https://www.youtube.com/watch?v=s1YJU8eL2es
+- Reviewer proof surface: https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
@@ -19,6 +20,7 @@ This repository is the public-safe Build Week package for the Renaissance Field 
 It contains:
 
 - a public-safe white paper
+- a public-safe reviewer proof surface
 - a local SQLite receipt demo
 - scoring scripts
 - redacted sample benchmark rows
@@ -71,6 +73,8 @@ Important nuance:
 |-- examples/
 |   |-- sample_receipts.jsonl
 |   `-- sample_benchmark_rows.csv
+|-- demo/
+|   `-- reviewer-proof-surface.html
 |-- scripts/
 |   |-- sq67_demo.py
 |   |-- score_receipts.py
@@ -84,11 +88,17 @@ Important nuance:
 
 ## Quick Start
 
-Run the receipt demo with only Python standard library:
+Run the public judge validation packet:
 
 ```sh
+git clone https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week.git
+cd rfl-codex67-sq67-build-week
 make test
 ```
+
+That fresh-clone path is the public-safe validation gate: it writes SQ67 demo
+receipts, verifies hashes, scores the benchmark packet, and rebuilds the white
+paper PDF without private RFL state files or credentials.
 
 Or run each step directly:
 
@@ -121,6 +131,21 @@ Expected result:
 - the demo writes three chained SQ67-style receipts
 - verification returns `OK`
 - the benchmark scorer prints lane-level recovery and evidence preservation rates
+
+## Judge Code Walkthrough
+
+Start with these files:
+
+- `scripts/sq67_demo.py` - the public-safe SQLite receipt writer, verifier, exporter, and nonce recovery path.
+- `scripts/score_receipts.py` - lane-level scoring for recovery, evidence preservation, false recoveries, controls, latency, and token totals.
+- `scripts/build_whitepaper_pdf.py` - reproducible PDF builder for the public-safe white paper.
+- `examples/sample_receipts.jsonl` - redacted receipt examples.
+- `examples/sample_benchmark_rows.csv` - public-safe benchmark summary rows.
+- `docs/public_make_test_receipt_2026-07-18.md` - exact transcript from the public `make test` verifier run.
+
+The public code is intentionally small and inspectable. It shows the receipt pattern, scoring pattern, and review surface without exposing raw private Codex state logs, private prompts, account identifiers, tokens, machine-bound backend identifiers, or protected architecture implementation details.
+
+Protected implementation code, raw state evidence, private prompts, unredacted logs, and licensing-grade integration material are available only through NDA, licensing review, or another protected review process with Renaissance Field Lite.
 
 ## Key Results Carried Into This Public Package
 
@@ -159,6 +184,6 @@ Public package status: repo-ready.
 
 Pending before final Devpost submission:
 
-- `/feedback` Codex session ID
+- `/feedback` Codex session ID from a public-safe Tornado reproduction task
 - final category selection
 - final review of public visibility and redaction

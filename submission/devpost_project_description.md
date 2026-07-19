@@ -45,12 +45,58 @@ YouTube URL: https://www.youtube.com/watch?v=s1YJU8eL2es
 ## Public Paper / Repository
 
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
+- Reviewer proof surface: https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
+
+## Code Access / Licensing Boundary
+
+The public repository includes runnable public-safe code for judges to inspect:
+
+- SQ67 SQLite receipt demo
+- SHA256 receipt verification
+- nonce recovery
+- lane scoring
+- PDF rebuild script
+
+Protected implementation code, raw state evidence, private prompts, unredacted logs, and licensing-grade integration material are available only under NDA, licensing review, or another protected review process with Renaissance Field Lite.
+
+## Installation / Testing Instructions
+
+Supported platforms:
+
+- macOS
+- Linux
+- Windows with WSL, Git Bash, or PowerShell running Python 3.10+
+
+No API key, hosted account, plugin install, private credential, or rebuild of the protected system is required for public judging.
+
+Hosted demo / sandbox surface:
+
+https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
+
+Local test:
+
+```sh
+git clone https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week.git
+cd rfl-codex67-sq67-build-week
+make test
+```
+
+If `make` is unavailable:
+
+```sh
+python3 scripts/sq67_demo.py demo --db examples/output/sq67_demo.sqlite
+python3 scripts/sq67_demo.py verify --db examples/output/sq67_demo.sqlite
+python3 scripts/sq67_demo.py recover --db examples/output/sq67_demo.sqlite --nonce SQ67_PUBLIC_DEMO_A002
+python3 scripts/score_receipts.py examples/sample_benchmark_rows.csv
+```
 
 ## Feedback Session
 
 Codex `/feedback` session ID: `TBD`
+
+Session ID plan: use a fresh public-safe Tornado PC reproduction task, not the private RFL Mac build thread.
 
 ## Boundary
 

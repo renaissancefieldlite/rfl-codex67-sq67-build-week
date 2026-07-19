@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Codex67 / SQ67 Reviewer Proof Surface</title>
+    <style>
+        body {
+            margin: 0;
+            background: #020604;
+            color: #f5f2e8;
+            font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        }
+
+        main {
+            width: min(1120px, calc(100% - 40px));
+            margin: 0 auto;
+            padding: 70px 0;
+        }
+
+        h1 {
+            max-width: 980px;
+            font-size: clamp(3rem, 8vw, 7rem);
+            line-height: 0.9;
+            margin: 16px 0;
+            letter-spacing: 0;
+        }
+
+        h2 {
+            margin: 10px 0 12px;
+            font-size: clamp(1.6rem, 3vw, 2.5rem);
+        }
+
+        p,
+        li {
+            color: #b9c4bb;
+            line-height: 1.55;
+            font-size: 1.04rem;
+        }
+
+        a {
+            color: #e9c84a;
+        }
+
+        .label {
+            color: #e9c84a;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            font-size: 0.78rem;
+            font-weight: 800;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 18px;
+            margin-top: 38px;
+        }
+
+        .card {
+            grid-column: span 6;
+            border: 1px solid rgba(154, 210, 180, 0.28);
+            background: rgba(4, 17, 12, 0.9);
+            padding: 24px;
+            border-radius: 8px;
+        }
+
+        .full {
+            grid-column: 1 / -1;
+        }
+
+        pre {
+            overflow: auto;
+            border: 1px solid rgba(233, 200, 74, 0.26);
+            background: rgba(0, 0, 0, 0.74);
+            border-radius: 8px;
+            padding: 18px;
+            color: #e8f7eb;
+            font: 0.84rem/1.5 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+            white-space: pre;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border-bottom: 1px solid rgba(154, 210, 180, 0.28);
+            padding: 12px 10px;
+            text-align: left;
+        }
+
+        th {
+            color: #e9c84a;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            font-size: 0.78rem;
+        }
+
+        @media (max-width: 820px) {
+            .card {
+                grid-column: 1 / -1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <p class="label">OpenAI Codex Build Week / Developer Tools</p>
+        <h1>Not a story. A receipt surface.</h1>
+        <p>
+            This is the public-safe reviewer surface for Renaissance Field Lite Codex67 / SQ67.
+            It shows the runnable code path, expected output, receipt pattern, benchmark comparison,
+            and protected NDA/licensing boundary.
+        </p>
+
+        <section class="grid">
+            <article class="card full">
+                <p class="label">Judge path</p>
+                <h2>Clone the repo and run one command.</h2>
+                <pre>git clone https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week.git
+cd rfl-codex67-sq67-build-week
+make test</pre>
+            </article>
+
+            <article class="card full">
+                <p class="label">Expected output</p>
+                <pre>OK wrote 3 receipts to examples/output/sq67_demo.sqlite
+OK
+lane,rows,exact_rate,evidence_rate,false_recoveries,control_rejections,avg_latency_seconds,total_tokens
+SQ67 clean receipt lane,150,100.00%,100.00%,0,0,n/a,0
+SQ67 clean route,450,100.00%,100.00%,0,0,n/a,0
+Tornado N10 sealed batch,10,100.00%,100.00%,0,0,n/a,0
+Tornado second-machine sealed batch,3,100.00%,100.00%,0,0,n/a,0
+blinded carrier gate,25,100.00%,80.00%,0,5,n/a,0
+normal visible lane,150,99.33%,76.00%,0,0,n/a,0
+false recovery controls,1300,0.00%,0.00%,0,1300,n/a,0
+gpt-5.5 lane C,50,100.00%,100.00%,0,0,74.935,8421682
+gpt-5.6-sol lane C,50,76.00%,100.00%,0,0,171.111,19067794</pre>
+            </article>
+
+            <article class="card">
+                <p class="label">Receipt row</p>
+                <pre>{
+  "nonce": "SQ67_PUBLIC_DEMO_A001",
+  "lane": "sq67_clean",
+  "task": "extract_facts",
+  "claim": "receipt writer created a durable marker",
+  "boundary": "synthetic public demo row only"
+}</pre>
+            </article>
+
+            <article class="card">
+                <p class="label">Boundary</p>
+                <p>
+                    The public code is the evaluator harness. Protected implementation code, raw state evidence,
+                    private prompts, unredacted logs, and licensing-grade integrations are available only under
+                    NDA/licensing review with Renaissance Field Lite.
+                </p>
+            </article>
+
+            <article class="card full">
+                <p class="label">Scoreboard</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Lane</th>
+                            <th>Rows</th>
+                            <th>Exact</th>
+                            <th>Evidence</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>SQ67 clean receipt lane</td><td>150</td><td>100.00%</td><td>100.00%</td></tr>
+                        <tr><td>Normal visible lane</td><td>150</td><td>99.33%</td><td>76.00%</td></tr>
+                        <tr><td>SQ67 clean route</td><td>450</td><td>100.00%</td><td>100.00%</td></tr>
+                        <tr><td>False recovery controls</td><td>1300</td><td>0.00%</td><td>0.00%</td></tr>
+                    </tbody>
+                </table>
+            </article>
+        </section>
+    </main>
+</body>
+</html>

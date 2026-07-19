@@ -26,5 +26,4 @@ Included:
 - runnable demo code using local toy demo data only
 - video checksum and media notes
 
-Reviewers can request private raw evidence under an appropriate NDA or equivalent protected-review process.
-
+Reviewers can request private raw evidence, protected implementation code, or licensing-grade integration material under an appropriate NDA, licensing review, or equivalent protected-review process with Renaissance Field Lite.
