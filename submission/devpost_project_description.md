@@ -83,6 +83,20 @@ cd rfl-codex67-sq67-build-week
 make test
 ```
 
+Expected validation packet:
+
+```text
+OK wrote 3 receipts to examples/output/sq67_demo.sqlite
+OK
+SQ67 clean receipt lane,150,100.00%,100.00%,0,0,n/a,0
+SQ67 clean route,450,100.00%,100.00%,0,0,n/a,0
+Tornado N10 sealed batch,10,100.00%,100.00%,0,0,n/a,0
+false recovery controls,1300,0.00%,0.00%,0,1300,n/a,0
+gpt-5.5 lane C,50,100.00%,100.00%,0,0,74.935,8421682
+gpt-5.6-sol lane C,50,76.00%,100.00%,0,0,171.111,19067794
+normal visible lane,150,99.33%,76.00%,0,0,n/a,0
+```
+
 If `make` is unavailable:
 
 ```sh
