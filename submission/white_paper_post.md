@@ -3,6 +3,7 @@
 Renaissance Field Lite has published the public-safe Codex67 / SQ67 Build Week white paper package.
 
 Public video: https://www.youtube.com/watch?v=s1YJU8eL2es  
+PRLog public release: https://www.prlog.org/13159213-renaissance-field-lite-releases-codex67-sq67-build-week-evidence-package.html  
 GitHub package: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week  
 White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf  
 Zenodo DOI: https://doi.org/10.5281/zenodo.21417649

@@ -1,6 +1,7 @@
 # Renaissance Field Lite Codex67 / SQ67: We Found the State Path, Cleaned It, and Measured the Lift
 
 Video: https://www.youtube.com/watch?v=s1YJU8eL2es  
+PRLog release: https://www.prlog.org/13159213-renaissance-field-lite-releases-codex67-sq67-build-week-evidence-package.html  
 Repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week  
 White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf  
 Zenodo DOI: https://doi.org/10.5281/zenodo.21417649
@@ -75,4 +76,3 @@ This package does not prove motive, human reading of private material, direct hi
 It does prove that RFL built a repeatable evidence harness, preserved a public-safe record, and measured a cleaner state-path lane than the default visible baseline.
 
 OpenAI can answer the implementation and documentation questions from here.
-
