@@ -9,7 +9,7 @@ Public package date: 2026-07-17
 
 ## Canonical Public Links
 
-- Public video: https://www.youtube.com/watch?v=KGEEQGcBrzs
+- Public video: https://www.youtube.com/watch?v=s1YJU8eL2es
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649

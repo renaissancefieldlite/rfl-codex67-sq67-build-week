@@ -1,6 +1,6 @@
 # Renaissance Field Lite Codex67 / SQ67: We Found the State Path, Cleaned It, and Measured the Lift
 
-Video: https://www.youtube.com/watch?v=KGEEQGcBrzs  
+Video: https://www.youtube.com/watch?v=s1YJU8eL2es  
 Repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week  
 White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf  
 Zenodo DOI: https://doi.org/10.5281/zenodo.21417649

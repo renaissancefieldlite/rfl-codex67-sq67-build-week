@@ -40,7 +40,13 @@ GPT-5.6-sol was included in the C57/C58 model-gate comparison harness. The resul
 
 ## Demo Video
 
-YouTube URL: `TBD`
+YouTube URL: https://www.youtube.com/watch?v=s1YJU8eL2es
+
+## Public Paper / Repository
+
+- Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
+- White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
+- Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
 
 ## Feedback Session
 
@@ -49,4 +55,3 @@ Codex `/feedback` session ID: `TBD`
 ## Boundary
 
 This package proves a repeatable state-path test harness and measured evidence-preservation lift. It does not rely on exposing private prompts or claiming direct access to model internals.
-
