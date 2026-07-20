@@ -14,7 +14,7 @@ Public repository:
 https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 
 Public demo video:
-https://www.youtube.com/watch?v=s1YJU8eL2es
+https://www.youtube.com/watch?v=puGeATnJgH0
 
 Public page:
 https://renaissancefieldlite.com/codex67-sq67-build-week.html
@@ -41,4 +41,3 @@ Steps:
 Boundary:
 This is a public-safe reproduction thread for Devpost review. It is not the private build thread and it should not disclose raw private state/log evidence.
 ```
-

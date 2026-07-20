@@ -93,7 +93,7 @@ White paper PDF:
 https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
 
 Video:
-https://www.youtube.com/watch?v=s1YJU8eL2es
+https://www.youtube.com/watch?v=puGeATnJgH0
 
 Medium article:
 https://medium.com/@renaissancefieldlite/the-openaid-tea-we-found-their-state-layer-improved-it-and-then-we-built-receipts-d5787d1ad0b1
