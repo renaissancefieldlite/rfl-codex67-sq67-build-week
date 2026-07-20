@@ -9,7 +9,7 @@ C59D_SANDWICH_DAGGER_SQ67_RFL_AF_BELLA_FAST_20260716_JUDGE_3MIN_NOVEL_OUTPUT_118
 YouTube URL:
 
 ```text
-https://www.youtube.com/watch?v=s1YJU8eL2es
+https://www.youtube.com/watch?v=puGeATnJgH0
 ```
 
 Local source package:

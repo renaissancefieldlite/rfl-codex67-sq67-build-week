@@ -42,7 +42,7 @@ GPT-5.6-sol was included in the C57/C58 model-gate comparison harness. The resul
 
 ## Demo Video
 
-YouTube URL: https://www.youtube.com/watch?v=s1YJU8eL2es
+YouTube URL: https://www.youtube.com/watch?v=puGeATnJgH0
 
 ## Public Paper / Repository
 

@@ -6,7 +6,7 @@ SQ67 is the receipt book: write a marker, hash the proof, recover it later, and 
 
 ## Canonical Public Links
 
-- Public video: https://www.youtube.com/watch?v=s1YJU8eL2es
+- Public video: https://www.youtube.com/watch?v=puGeATnJgH0
 - Reviewer proof surface: https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf

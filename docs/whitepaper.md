@@ -9,7 +9,7 @@ Public package date: 2026-07-17
 
 ## Canonical Public Links
 
-- Public video: https://www.youtube.com/watch?v=s1YJU8eL2es
+- Public video: https://www.youtube.com/watch?v=puGeATnJgH0
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
 - Public-safe 30-claim patent audit packet: https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
