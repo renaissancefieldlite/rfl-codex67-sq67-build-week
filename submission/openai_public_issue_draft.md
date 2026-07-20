@@ -102,7 +102,7 @@ PRLog release:
 https://www.prlog.org/13159213-renaissance-field-lite-releases-codex67-sq67-build-week-evidence-package.html
 
 Patent claim audit packet:
-https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/tree/main/docs/provisional_claim_audit
+https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
 
 ### Reproducible reviewer command
 
@@ -150,7 +150,7 @@ These metrics do not claim to prove motive. They do show that a receipt-bound st
 
 RFL has added a public-safe 30-claim audit packet for the Mirror Interface / Codex 67 patent spine:
 
-https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/tree/main/docs/provisional_claim_audit
+https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
 
 This packet does not republish raw private patent folders, inventor address details, local database bodies, private prompts, account identifiers, or protected implementation code.
 

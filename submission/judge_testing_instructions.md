@@ -33,11 +33,19 @@ make test
 
 The repository includes a public-safe 30-claim audit packet:
 
+Canonical public repository:
+
+```text
+https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
+```
+
+Local mirror in this repository:
+
 ```text
 docs/provisional_claim_audit/
 ```
 
-It gives judges the reviewer-safe overlap map: provisional priority anchor, source hashes, claim-theme matrix, FIG. 1-FIG. 15 mapping, and explicit boundaries. It does not publish raw private patent folders, inventor address details, local database bodies, private prompts, or protected implementation mechanics.
+It gives judges the reviewer-safe overlap map: provisional priority anchor, active utility nonprovisional application status, source hashes, claim-theme matrix, FIG. 1-FIG. 15 mapping, and explicit boundaries. It does not publish raw private patent folders, inventor address details, local database bodies, private prompts, or protected implementation mechanics.
 
 ## Run The Demo
 

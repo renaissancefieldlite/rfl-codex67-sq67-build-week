@@ -151,13 +151,19 @@ Protected implementation code, raw state evidence, private prompts, unredacted l
 
 ## Patent Claim Audit Packet
 
-The public-safe 30-claim audit packet is here:
+The standalone public-safe 30-claim audit packet is here:
+
+```text
+https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
+```
+
+This repo keeps a local mirror here:
 
 ```text
 docs/provisional_claim_audit/
 ```
 
-It maps RFL's provisional priority anchor and later 30-claim non-provisional support spine to the observed Codex/SQ67 state-path evidence in a reviewer-safe way. It includes source hashes, claim-theme mappings, FIG. 1-FIG. 15 overlap mappings, and boundaries for what remains protected.
+It maps RFL's provisional priority anchor, active utility nonprovisional application status, and later 30-claim support spine to the observed Codex/SQ67 state-path evidence in a reviewer-safe way. It includes source hashes, claim-theme mappings, FIG. 1-FIG. 15 overlap mappings, and boundaries for what remains protected.
 
 ## Key Results Carried Into This Public Package
 

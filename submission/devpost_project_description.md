@@ -49,7 +49,7 @@ YouTube URL: https://www.youtube.com/watch?v=s1YJU8eL2es
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - Reviewer proof surface: https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
-- 30-claim patent audit packet: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/tree/main/docs/provisional_claim_audit
+- 30-claim patent audit packet: https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
 
 ## Code Access / Licensing Boundary

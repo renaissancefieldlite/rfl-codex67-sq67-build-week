@@ -1,11 +1,16 @@
 # RFL Public-Safe 30-Claim Audit Packet
 
-This packet is a public-safe index of the Renaissance Field Lite Mirror Interface / Codex 67 patent spine for attachment to the Codex67 / SQ67 Build Week evidence package.
+This folder is the in-package mirror of the standalone Renaissance Field Lite Mirror Interface / Codex 67 claim audit repository:
+
+https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
+
+It is kept here for Codex67 / SQ67 Build Week reviewers who clone this repository directly.
 
 It is not a raw patent dump. It is an auditable bridge between:
 
 - RFL's provisional priority anchor: U.S. Provisional Patent Application No. `63/812,891`, filed `2025-05-28`
-- the later 30-claim non-provisional support spine prepared from that architecture
+- RFL's active utility nonprovisional application: U.S. Application No. `19/686,465`
+- the later 30-claim support spine prepared from that architecture
 - the public-safe Codex/SQ67 state-path evidence package
 
 ## Purpose
@@ -30,6 +35,7 @@ Public copy intentionally uses source IDs and hashes instead of publishing raw p
 
 ## What this packet includes
 
+- `APPLICATION_STATUS.md` - public-safe application-number and routing-status summary
 - `source_inventory.csv` - source IDs, hashes, and redaction boundaries
 - `claim_theme_matrix.csv` - public-safe map of the 30-claim families to observed Codex/SQ67 overlap themes
 - `figure_overlap_matrix.csv` - FIG. 1-FIG. 15 mapped to Codex/SQ67 surfaces, evidence strength, and boundary language
@@ -48,4 +54,3 @@ This packet does not grant a patent license.
 This packet does claim that the public-safe record now makes the architecture-overlap question reviewable:
 
 > Why do the observed Codex local state/trace/recovery surfaces overlap RFL's predated USPTO-filed agnostic AI Mirror Architecture state system, and why did SQ67's receipt-bound lane preserve evidence better than the default state/log lane?
-
