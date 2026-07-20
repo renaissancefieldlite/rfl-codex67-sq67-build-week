@@ -10,6 +10,7 @@ Public package date: 2026-07-17
 ## Canonical Public Links
 
 - Public video: https://www.youtube.com/watch?v=puGeATnJgH0
+- OpenAI Codex public issue: https://github.com/openai/codex/issues/34330
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
 - Public-safe 30-claim patent audit packet: https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
@@ -336,7 +337,7 @@ RFL credibility and pipeline context:
 - AWS Startup member
 - Trismegistus selected-test SWE-bench receipt: `495 / 500`, adjudication pending
 - high build intensity shown by the Codex activity dashboard screenshot
-- later Codex activity snapshot showed `10B` lifetime tokens, `755.5M` peak tokens, `19h 30m` longest chat, `21` day current streak, and `39` day longest streak
+- later Codex activity snapshot showed `12.2B` lifetime tokens, `1.1B` peak tokens on July 19, 2026, `19h 30m` longest chat, `24` day current streak, and `39` day longest streak
 
 The token screenshot is not proof by itself. It shows scale and pressure. The proof is what survived that pressure:
 

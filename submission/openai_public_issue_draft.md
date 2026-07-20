@@ -8,6 +8,9 @@ Codex local state/trace surfaces overlap RFL's USPTO-filed state architecture: J
 
 Primary venue: `openai/codex` GitHub issue, if issues remain the correct public technical venue.
 
+Published issue:
+https://github.com/openai/codex/issues/34330
+
 Fallback venues:
 - OpenAI safety / bug-report channel
 - OpenAI Build Week reviewer notes
@@ -86,6 +89,9 @@ https://renaissancefieldlite.com/codex67-sq67-build-week.html
 Reviewer proof surface:
 https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 
+Devpost submission:
+https://devpost.com/software/renaissance-field-lite-codex67-sq67
+
 GitHub package:
 https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 
@@ -125,6 +131,7 @@ Public package metrics include:
 - GPT-5.5 lane A: `50 / 50` exact preservation.
 - GPT-5.6-sol lane A: `43 / 50` exact preservation.
 - GPT-5.6-sol lane C showed heavier latency/token degradation under the same harness.
+- Build-intensity snapshot: `12.2B` lifetime tokens and `1.1B` peak tokens on July 19, 2026.
 
 These metrics do not claim to prove motive. They do show that a receipt-bound state path preserved evidence more cleanly than the default visible lane in the RFL test package.
 

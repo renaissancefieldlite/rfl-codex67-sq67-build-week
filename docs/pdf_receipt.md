@@ -44,7 +44,7 @@ Five Questions For OpenAI: present
 Application No. 63/812,891: present
 Public video URL: present
 Zenodo DOI record: present
-10B token activity snapshot: present
+12.2B lifetime / 1.1B peak token activity snapshot: present
 ```
 
 Visual check:

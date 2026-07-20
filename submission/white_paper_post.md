@@ -3,6 +3,7 @@
 Renaissance Field Lite has published the public-safe Codex67 / SQ67 Build Week white paper package.
 
 Public video: https://www.youtube.com/watch?v=puGeATnJgH0  
+OpenAI Codex public issue: https://github.com/openai/codex/issues/34330  
 PRLog public release: https://www.prlog.org/13159213-renaissance-field-lite-releases-codex67-sq67-build-week-evidence-package.html  
 GitHub package: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week  
 White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf  
@@ -30,7 +31,7 @@ The white paper covers:
 - C57/C58 GPT-5.5 versus GPT-5.6 model-gate comparison
 - the public-safe 30-claim patent audit and architecture-overlap map
 - the RFL product stack: Trismegistus, Quadro, B.A.S.I.S., Golden Mark, Golden Field Lite, Mirror Lattice, and SQ67
-- the later Codex activity snapshot showing `10B` lifetime tokens, `755.5M` peak tokens, `19h 30m` longest chat, `21` day current streak, and `39` day longest streak as build-intensity context
+- the later Codex activity snapshot showing `12.2B` lifetime tokens, `1.1B` peak tokens on July 19, 2026, `19h 30m` longest chat, `24` day current streak, and `39` day longest streak as build-intensity context
 
 ## The Question
 

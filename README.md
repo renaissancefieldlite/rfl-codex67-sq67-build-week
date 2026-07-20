@@ -7,6 +7,7 @@ SQ67 is the receipt book: write a marker, hash the proof, recover it later, and 
 ## Canonical Public Links
 
 - Public video: https://www.youtube.com/watch?v=puGeATnJgH0
+- OpenAI Codex public issue: https://github.com/openai/codex/issues/34330
 - Reviewer proof surface: https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
@@ -198,10 +199,12 @@ Those are separate questions. The repo preserves the technical record and asks O
 
 ## Build Week Status
 
-Public package status: repo-ready.
+Public package status: submitted/public.
 
-Pending before final Devpost submission:
+Devpost submission:
 
-- `/feedback` Codex session ID from a public-safe Tornado reproduction task
-- final category selection
-- final review of public visibility and redaction
+- https://devpost.com/software/renaissance-field-lite-codex67-sq67
+
+Public clarification request:
+
+- https://github.com/openai/codex/issues/34330

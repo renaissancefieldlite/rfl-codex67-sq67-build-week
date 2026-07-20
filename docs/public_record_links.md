@@ -3,6 +3,7 @@
 ## RFL Public Package
 
 - Public video: https://www.youtube.com/watch?v=puGeATnJgH0
+- OpenAI Codex public issue: https://github.com/openai/codex/issues/34330
 - PRLog public release: https://www.prlog.org/13159213-renaissance-field-lite-releases-codex67-sq67-build-week-evidence-package.html
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
@@ -22,6 +23,7 @@ The package references public OpenAI Codex issue/PR anchors that should be revie
 
 Links:
 
+- https://github.com/openai/codex/issues/34330
 - https://github.com/openai/codex/issues/21154
 - https://github.com/openai/codex/issues/21211
 - https://github.com/openai/codex/issues/28224
