@@ -192,7 +192,7 @@ This issue does claim:
 
 ### Proposed resolution
 
-OpenAI should do one of the following:
+OpenAI should address all of the following:
 
 1. Explain the intended local Codex state/log architecture and documentation boundary.
 2. Confirm whether any post-fix local persistence remained expected on July 11, 2026.
