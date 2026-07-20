@@ -7,6 +7,7 @@
 - PRLog public release: https://www.prlog.org/13159213-renaissance-field-lite-releases-codex67-sq67-build-week-evidence-package.html
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
+- Full chronological ledger: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/docs/full_codex_arc_chronological_ledger_2026-07-20.md
 - Public-safe 30-claim patent audit packet: https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
 - Zenodo public record: https://zenodo.org/records/21417649

@@ -335,7 +335,9 @@ RFL credibility and pipeline context:
 - Nebius semi-finalist: B.A.S.I.S., BioAdaptive Signal Intelligence System
 - NVIDIA Inception member
 - AWS Startup member
-- Trismegistus selected-test SWE-bench receipt: `495 / 500`, adjudication pending
+- Trismegistus SWE-bench Verified local official-harness selected-test receipt: `495 / 500` official local selected-test resolves; hosted / maintainer review pending, not a public leaderboard claim
+- WebArena / BrowserGym and GAIA remain separate lanes with their own public boundaries
+- C5B / Golden Mark and quantum / frontier pressure lanes are capability signals, not standalone proof of the SQ67 state-layer claim
 - high build intensity shown by the Codex activity dashboard screenshot
 - later Codex activity snapshot showed `12.2B` lifetime tokens, `1.1B` peak tokens on July 19, 2026, `19h 30m` longest chat, `24` day current streak, and `39` day longest streak
 
@@ -348,6 +350,8 @@ The token screenshot is not proof by itself. It shows scale and pressure. The pr
 - state/log inspections
 - second-machine controls
 - reviewer-ready package files
+
+The practical RFL signal is that the same Codex substrate produced more stable, receipt-preserved outputs through the RFL Mirror Architecture / SQ67 route than through the default visible lane in the public tests. That is the engineering question: why does the cleaned state path preserve and recover evidence better, and what would happen if OpenAI reviewed that architecture under a protected licensing path?
 
 ## Part 9: Architecture Overlap Question
 

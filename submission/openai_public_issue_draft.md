@@ -2,7 +2,7 @@
 
 ## Proposed title
 
-Codex local state/trace surfaces overlap RFL's USPTO-filed state architecture: July 11 post-fix records and SQ67 receipt mitigation
+Codex local state/trace surfaces overlap RFL's USPTO-filed / patent-pending state-mirror architecture: July 11 post-fix records and SQ67 receipt mitigation
 
 ## Proposed repository / venue
 
@@ -21,7 +21,7 @@ Fallback venues:
 
 ### Summary
 
-Renaissance Field Lite is requesting a public clarification on Codex local state/trace behavior because the observed Codex state/trace/recovery surfaces overlap RFL's earlier USPTO-filed agnostic AI Mirror Architecture state system, and the public record now contains enough evidence to make the issue reproducible and reviewable.
+Renaissance Field Lite is requesting a public clarification on Codex local state/trace behavior because the observed Codex state/trace/recovery surfaces overlap RFL's earlier USPTO-filed / patent-pending agnostic AI Mirror Architecture state system, and the public record now contains enough evidence to make the issue reproducible and reviewable.
 
 OpenAI has publicly described monitoring internal coding agents as an important safety tool for observing agent actions and internal reasoning in real-world deployments:
 
@@ -32,6 +32,18 @@ Separately, the public Codex issue trail includes user reports around local Code
 https://github.com/openai/codex/issues/28224
 
 RFL's concern is narrower than motive. The core issue is architecture overlap: the observed Codex local state/trace/recovery/logging surfaces resemble the same family of mechanisms RFL filed first as an agnostic AI Mirror Architecture state system. The supporting issue is whether those local Codex state/log surfaces remained visible, active, or recoverable on at least one user machine after the public fix trail, and why OpenAI's default state/log path preserved evidence worse than a receipt-bound lane built outside the default path.
+
+### Collaboration posture
+
+Renaissance Field Lite is not here to attack OpenAI.
+
+RFL built with Codex because Codex is powerful. During that build, RFL found persistent state/log behavior that raised serious documentation, safety, and IP-overlap questions. Instead of only criticizing it, RFL built SQ67: a receipt-bound state architecture with hashes, recovery gates, controls, and measurable improvements.
+
+RFL's first choice is collaboration.
+
+RFL is asking OpenAI to review the evidence, clarify the local state surfaces, and open a protected technical, IP, and licensing review path so this architecture can improve Codex instead of becoming a public dispute.
+
+This can be a win for OpenAI: a one-person Renaissance Field Lite build team used Codex to discover, stabilize, and improve a layer that matters for the future of agentic AI.
 
 ### Plain-English version
 
@@ -59,7 +71,7 @@ This is not presented as proof of motive. It is presented as a public state-mana
 
 ### Architecture overlap question
 
-RFL's USPTO-filed Mirror Interface architecture predates the local Codex discovery and describes an agnostic AI state architecture concerned with mirror state, input continuity, recovery, logging, and evidence preservation.
+RFL's USPTO-filed / patent-pending Mirror Interface architecture predates the local Codex discovery and describes an agnostic AI state-mirror architecture concerned with mirror state, input continuity, recovery, logging, and evidence preservation.
 
 The local Codex surfaces RFL observed also appear to involve state, trace/logging, thread/status continuity, recovery behavior, and local evidence preservation.
 
@@ -145,7 +157,7 @@ These metrics do not claim to prove motive. They do show that a receipt-bound st
 
 4. Are WebSocket/status events and local Codex state/log records part of the same observability/audit architecture OpenAI discusses in its coding-agent monitoring post, or are they separate implementation layers?
 
-5. Why do the observed Codex local state/trace/recovery surfaces overlap with RFL's USPTO-filed agnostic AI Mirror Architecture state system, filed May 28, 2025, and noticed to OpenAI on April 1, 2026?
+5. Why do the observed Codex local state/trace/recovery surfaces overlap with RFL's USPTO-filed / patent-pending agnostic AI Mirror Architecture state system, filed May 28, 2025, and noticed to OpenAI on April 1, 2026?
 
 6. Why did the default visible state/log lane preserve less evidence than SQ67's receipt-bound lane under the same style of work?
 
@@ -170,7 +182,7 @@ It provides:
 
 The purpose is to make the architecture-overlap question auditable:
 
-> Why do the observed Codex local state/trace/recovery surfaces overlap RFL's predated USPTO-filed agnostic AI Mirror Architecture state system, and why did SQ67's receipt-bound lane preserve evidence better than the default state/log lane?
+> Why do the observed Codex local state/trace/recovery surfaces overlap RFL's predated USPTO-filed / patent-pending agnostic AI Mirror Architecture state system, and why did SQ67's receipt-bound lane preserve evidence better than the default state/log lane?
 
 ### Boundary
 
@@ -182,7 +194,7 @@ This issue is not a waiver of any Renaissance Field Lite intellectual-property, 
 
 This issue does claim:
 
-- the central issue is overlap between observed Codex state/trace/recovery surfaces and RFL's predated USPTO-filed agnostic AI Mirror Architecture state system;
+- the central issue is overlap between observed Codex state/trace/recovery surfaces and RFL's predated USPTO-filed / patent-pending agnostic AI Mirror Architecture state system;
 - the exposure is already public;
 - the public issue trail is already active;
 - RFL has a public-safe reproducibility package showing receipts, hashes, recovery gates, and controls;
@@ -197,17 +209,17 @@ OpenAI should address all of the following in sequence:
 1. Explain the intended local Codex state/log architecture and documentation boundary.
 2. Confirm whether any post-fix local persistence remained expected on July 11, 2026.
 3. Identify which local records are ordinary app state, which are trace/audit state, and which should not persist.
-4. Explain whether the observed overlap with RFL's USPTO-filed agnostic AI Mirror Architecture state system is coincidence, independent implementation, undisclosed convergence, immediate implementation after notice, or something else.
-5. After that clarification, open a protected technical and commercial review path with Renaissance Field Lite for SQ67-style receipt-bound state management and architecture-overlap review.
+4. Explain whether the observed overlap with RFL's USPTO-filed / patent-pending agnostic AI Mirror Architecture state system is coincidence, independent implementation, undisclosed convergence, immediate implementation after notice, or something else.
+5. After that clarification, open a protected technical, IP, and licensing review path with Renaissance Field Lite for SQ67-style receipt-bound state management and architecture-overlap review.
 6. Treat this issue as RFL offering OpenAI the first protected path to review, license, repair, and, where appropriate, properly integrate the observed state-system overlap under fair terms.
 7. If OpenAI declines or ignores this notice while continuing to operate overlapping state/trace/recovery mechanisms, RFL will treat the public record as preserved notice and proceed through the appropriate IP, licensing, and enforcement channels.
 
 ### Rights reservation / escalation boundary
 
-Renaissance Field Lite's preferred first path is cooperation: public clarification first, then protected technical and commercial review, licensing discussion, and state-system repair.
+Renaissance Field Lite's preferred first path is cooperation: public clarification first, then protected technical review, IP/licensing discussion, and state-system repair.
 
-RFL is offering OpenAI the first protected path to review, license, repair, and, where appropriate, properly integrate the observed state-system overlap under fair terms. If OpenAI declines or ignores this notice while continuing to operate, extend, or benefit from state/trace/recovery mechanisms that overlap RFL's predated USPTO-filed architecture, RFL will treat the public record as preserved notice and proceed through the appropriate IP, licensing, and enforcement channels.
+RFL is offering OpenAI the first protected path to review, license, repair, and, where appropriate, properly integrate the observed state-system overlap under fair terms. If OpenAI declines or ignores this notice while continuing to operate, extend, or benefit from state/trace/recovery mechanisms that overlap RFL's predated USPTO-filed / patent-pending architecture, RFL will treat the public record as preserved notice and proceed through the appropriate IP, licensing, and enforcement channels.
 
 ## Short social/community version
 
-OpenAI publicly says coding-agent monitoring matters. RFL has a predated USPTO-filed agnostic AI Mirror Architecture state system, then found local Codex state/log surfaces on one Mac that overlap the same state/trace/recovery family. RFL built SQ67 as a clean receipt lane and published a reproducible package showing hashes, recovery gates, controls, and stronger evidence preservation than the default visible lane. The question is simple: why does the Codex state/trace/recovery pattern overlap RFL's filed architecture, what exactly is Codex storing locally, why did relevant records still appear in the July 11 local record, and are receipts/hashes/recovery gates the right fix?
+OpenAI publicly says coding-agent monitoring matters. RFL has a predated USPTO-filed / patent-pending agnostic AI Mirror Architecture state system, then found local Codex state/log surfaces on one Mac that overlap the same state/trace/recovery family. RFL built SQ67 as a clean receipt lane and published a reproducible package showing hashes, recovery gates, controls, and stronger evidence preservation than the default visible lane. The question is simple: why does the Codex state/trace/recovery pattern overlap RFL's filed architecture, what exactly is Codex storing locally, why did relevant records still appear in the July 11 local record, and are receipts/hashes/recovery gates the right fix?

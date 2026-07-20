@@ -2,11 +2,11 @@
 
 ## Title
 
-Renaissance Field Lite Codex67 / SQ67
+Codex67 Mirror Architecture Stable State
 
 ## Tagline
 
-A Codex-built receipt, recovery, and benchmark harness for making agent state-path behavior measurable.
+An adaptable governance layer for agentic AI, with SQ67 receipts, hashes, recovery gates, and benchmark proof.
 
 ## Category
 
@@ -14,11 +14,15 @@ Developer Tools
 
 ## What We Built
 
-RFL built SQ67, a public-safe receipt lane for Codex workflows. SQ67 writes a marker, hashes the proof, recovers it later, and scores whether the state-path evidence held.
+RFL built Codex67 Mirror Architecture Stable State as the architecture frame, and SQ67 as the public-safe receipt lane for Codex workflows. SQ67 writes a marker, hashes the proof, recovers it later, and scores whether the state-path evidence held.
 
 RFL also added a public-safe 30-claim patent audit packet that maps the May 28, 2025 Mirror Interface priority anchor and later non-provisional support spine to the Codex/SQ67 state-path evidence without exposing private implementation files.
 
-This is part of a larger RFL Codex-built product stack: Trismegistus, Quadro, B.A.S.I.S., Golden Mark, Mirror Lattice, and SQ67.
+This is part of a larger RFL Codex-built research stack, but the builds are context. The proof is the state-path evidence, the tuning loop, and the benchmark receipts.
+
+RFL also packaged the broader Codex Playground state-path spine: frontier reasoning tests, quantum-style task pressure, B.A.S.I.S. biosignal / edge AI concept prototypes, and public-safe benchmark receipts. These lanes show why stable state management matters under harder work.
+
+Plain English: RFL is not claiming ownership of the model. RFL is showing a cleaner way to stabilize, preserve, and verify useful Codex outputs from state paths that the default visible lane did not preserve cleanly in the public tests.
 
 ## Why It Matters
 
@@ -39,6 +43,8 @@ GPT-5.6-sol was included in the C57/C58 model-gate comparison harness. The resul
 - Earlier clean route: 450 / 450 recoveries.
 - Controls: 0 / 1300 false recoveries.
 - H09 Tornado second-machine sealed batch: 10 / 10 hashes matched, zero plaintext hits.
+- Trismegistus SWE-bench Verified local official-harness selected-test receipt: 495 / 500 official local selected-test resolves; hosted / maintainer review pending, not a public leaderboard claim.
+- WebArena / BrowserGym, GAIA, C5B / Golden Mark, and quantum / frontier pressure lanes are separate capability signals with their own boundaries.
 
 ## Demo Video
 
@@ -49,6 +55,7 @@ YouTube URL: https://www.youtube.com/watch?v=puGeATnJgH0
 - Public repository: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week
 - Reviewer proof surface: https://renaissancefieldlite.com/codex67-sq67-reviewer-demo.html
 - White paper PDF: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/output/pdf/RFL_CODEX67_SQ67_WHITE_PAPER_PUBLIC_SAFE_20260717.pdf
+- RFL Codex Playground state-path package: https://github.com/renaissancefieldlite/rfl-codex67-sq67-build-week/blob/main/docs/rfl_codex_playground_build_package.md
 - 30-claim patent audit packet: https://github.com/renaissancefieldlite/rfl-mirror-interface-30-claim-audit
 - Zenodo DOI record: https://doi.org/10.5281/zenodo.21417649
 

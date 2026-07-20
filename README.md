@@ -2,7 +2,11 @@
 
 Codex helped Renaissance Field Lite build a product stack. Then we used Codex to build a receipt system for making agent state-path behavior easier to inspect, reproduce, and score.
 
+The practical distinction: RFL is surfacing stable, receipt-preserved Codex outputs from routes the default visible lane did not preserve cleanly in the public tests. This repository keeps that claim narrow and testable with receipts, hashes, controls, and recovery gates.
+
 SQ67 is the receipt book: write a marker, hash the proof, recover it later, and score whether it held.
+
+The central architecture frame is **Codex67 Mirror Architecture Stable State**: an adaptable governance layer for agentic AI where SQ67 acts as the receipt and audit surface.
 
 ## Canonical Public Links
 
@@ -25,7 +29,9 @@ It contains:
 - a local SQLite receipt demo
 - scoring scripts
 - redacted sample benchmark rows
+- an RFL Codex Playground build-package overview
 - a public-safe 30-claim patent audit packet
+- a full chronological Codex arc ledger
 - Devpost and reviewer instructions
 - video receipt metadata
 
@@ -38,6 +44,12 @@ RFL found local Codex state and trace surfaces on one RFL Mac. The default lane 
 The narrow public claim is this:
 
 > SQ67 proves a repeatable state-path testing harness and measurable evidence-preservation lift. It does not require exposing private prompts or claiming direct access to model internals.
+
+## Collaboration Posture
+
+Renaissance Field Lite's first path is collaboration. This package is designed to route the record to the right OpenAI Codex, safety, infrastructure, and IP review owners without forcing private mechanics into public artifacts.
+
+The ask is simple: clarify the local state/log surfaces, review the architecture-overlap question under a protected technical and licensing path, and evaluate whether SQ67-style receipts, hashes, recovery gates, and controls can help make Codex more stable, auditable, and useful.
 
 ## Product Stack Context
 
@@ -54,6 +66,12 @@ This is not a one-prompt demo. The RFL product stack includes:
 Important nuance:
 
 > The patented agnostic AI Mirror Architecture workflow built the stack. SQ67 came later as the clean receipt and recovery layer for measuring state-path behavior.
+
+Benchmark nuance:
+
+- Trismegistus carries a SWE-bench Verified local official-harness selected-test receipt of `495 / 500` official local selected-test resolves; hosted / maintainer review remains pending, and this is not presented as a public leaderboard claim.
+- WebArena / BrowserGym and GAIA are separate lanes with their own boundaries.
+- C5B / Golden Mark and quantum / frontier pressure tasks show advanced Codex work pressure, not standalone proof of the SQ67 state-layer claim.
 
 ## Repository Layout
 
@@ -145,6 +163,8 @@ Start with these files:
 - `examples/sample_receipts.jsonl` - redacted receipt examples.
 - `examples/sample_benchmark_rows.csv` - public-safe benchmark summary rows.
 - `docs/public_make_test_receipt_2026-07-18.md` - exact transcript from the public `make test` verifier run.
+- `docs/rfl_codex_playground_build_package.md` - public-safe overview of Codex67 Mirror Architecture Stable State, the SQ67 receipt/audit surface, tuning, frontier/quantum pressure tests, and benchmark stack.
+- `docs/full_codex_arc_chronological_ledger_2026-07-20.md` - no-shorthand chronology tying the patent anchor, local Codex state/log discovery, SQ67 gates, benchmark spine, and OpenAI outreach path to exact public-safe artifacts.
 
 The public code is intentionally small and inspectable. It shows the receipt pattern, scoring pattern, and review surface without exposing raw private Codex state logs, private prompts, account identifiers, tokens, machine-bound backend identifiers, or protected architecture implementation details.
 
