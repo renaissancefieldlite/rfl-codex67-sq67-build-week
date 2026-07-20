@@ -192,21 +192,21 @@ This issue does claim:
 
 ### Proposed resolution
 
-OpenAI should address all of the following:
+OpenAI should address all of the following in sequence:
 
 1. Explain the intended local Codex state/log architecture and documentation boundary.
 2. Confirm whether any post-fix local persistence remained expected on July 11, 2026.
 3. Identify which local records are ordinary app state, which are trace/audit state, and which should not persist.
 4. Explain whether the observed overlap with RFL's USPTO-filed agnostic AI Mirror Architecture state system is coincidence, independent implementation, undisclosed convergence, immediate implementation after notice, or something else.
-5. Open a protected technical review with Renaissance Field Lite for SQ67-style receipt-bound state management and architecture-overlap review.
-6. Treat this issue as RFL offering OpenAI the first protected path to review, license, and repair the observed state-system overlap.
+5. After that clarification, open a protected technical and commercial review path with Renaissance Field Lite for SQ67-style receipt-bound state management and architecture-overlap review.
+6. Treat this issue as RFL offering OpenAI the first protected path to review, license, repair, and, where appropriate, properly integrate the observed state-system overlap under fair terms.
 7. If OpenAI declines or ignores this notice while continuing to operate overlapping state/trace/recovery mechanisms, RFL will treat the public record as preserved notice and proceed through the appropriate IP, licensing, and enforcement channels.
 
 ### Rights reservation / escalation boundary
 
-Renaissance Field Lite's preferred first path is cooperation: protected technical review, licensing discussion, and state-system repair.
+Renaissance Field Lite's preferred first path is cooperation: public clarification first, then protected technical and commercial review, licensing discussion, and state-system repair.
 
-RFL is offering OpenAI the first protected path to review, license, and repair the observed state-system overlap. If OpenAI declines or ignores this notice while continuing to operate, extend, or benefit from state/trace/recovery mechanisms that overlap RFL's predated USPTO-filed architecture, RFL will treat the public record as preserved notice and proceed through the appropriate IP, licensing, and enforcement channels.
+RFL is offering OpenAI the first protected path to review, license, repair, and, where appropriate, properly integrate the observed state-system overlap under fair terms. If OpenAI declines or ignores this notice while continuing to operate, extend, or benefit from state/trace/recovery mechanisms that overlap RFL's predated USPTO-filed architecture, RFL will treat the public record as preserved notice and proceed through the appropriate IP, licensing, and enforcement channels.
 
 ## Short social/community version
 

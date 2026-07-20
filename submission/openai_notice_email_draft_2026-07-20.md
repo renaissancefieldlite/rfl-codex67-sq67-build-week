@@ -6,7 +6,7 @@ To: OpenAI Codex / Developer Platform / Security Review / Legal-IP Intake
 
 Hello OpenAI team,
 
-Renaissance Field Lite is requesting a protected technical review of the Codex67 / SQ67 Build Week package and the related public clarification issue now opened in `openai/codex`.
+Renaissance Field Lite is requesting public clarification first, then a protected technical and commercial review path for the Codex67 / SQ67 Build Week package and the related public clarification issue now opened in `openai/codex`.
 
 Public GitHub issue:
 https://github.com/openai/codex/issues/34330
@@ -47,9 +47,9 @@ The narrow public issue is:
 2. Why did relevant local records remain visible in the July 11, 2026 RFL Mac evidence set after the public fix/mitigation trail?
 3. Why did the default visible state/log lane preserve less evidence than SQ67 under the same style of work?
 4. Why do the observed Codex state/trace/recovery surfaces overlap RFL's predated USPTO-filed agnostic AI Mirror Architecture state system?
-5. Is OpenAI willing to review SQ67-style receipt-bound state management and the architecture-overlap question under NDA/licensing?
+5. After clarification, is OpenAI willing to open a protected technical and commercial review path for SQ67-style receipt-bound state management and the architecture-overlap question under NDA/licensing?
 
-RFL's preferred first path is cooperation: protected technical review, state-system repair, and licensing discussion where appropriate.
+RFL's preferred first path is cooperation: public clarification first, then protected technical review, state-system repair, and licensing discussion under fair terms where appropriate.
 
 Please route this to the correct Codex engineering, safety, and IP review contacts and confirm receipt.
 
